@@ -26,25 +26,30 @@ style: |
 ![](images/libraries-galore.png)
 
 ---
+![height:470pt](images/cat-dude-1.png)
+
+---
+![height:470pt](images/cat-dude-2.png)
+
+---
+![height:470pt](images/planet-printer.png)
+
+---
+
+---
 
 ### Python has "a library for everything."
 
-It can be like the "glue" that brings together a bunch of different tools.
+It can be like the glue that brings together a bunch of different tools.
 
 
 ![bg right](images/pick-n-mix.avif)
 
----
-# Examples
-
-* read the contents of a receipt, ask an LLM to generate a description of the kind of person who would buy those items (with some nudging), then ask a diffusion model to _draw_ the description
-* have people decorate plastic balls with playdough, then use the Gemini API to create a description of the planet
-* convert an image into a sequence of numbers in order to make it easier to _weave_ that image
-
----
-
-![height:450pt](images/computer-nerd.png)
 
 ---
 
 ![height:450pt](images/final.gif)
+
+---
+
+![height:450pt](images/computer-nerd.png)
